@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/LefMono000/Actividad_integradora_sprint_el_corazon_de_scrum/static/css/main.23880136.css",
-    "main.js": "/LefMono000/Actividad_integradora_sprint_el_corazon_de_scrum/static/js/main.b187a372.js",
-    "static/js/453.0498e25d.chunk.js": "/LefMono000/Actividad_integradora_sprint_el_corazon_de_scrum/static/js/453.0498e25d.chunk.js",
-    "index.html": "/LefMono000/Actividad_integradora_sprint_el_corazon_de_scrum/index.html",
-    "main.23880136.css.map": "/LefMono000/Actividad_integradora_sprint_el_corazon_de_scrum/static/css/main.23880136.css.map",
-    "main.b187a372.js.map": "/LefMono000/Actividad_integradora_sprint_el_corazon_de_scrum/static/js/main.b187a372.js.map",
-    "453.0498e25d.chunk.js.map": "/LefMono000/Actividad_integradora_sprint_el_corazon_de_scrum/static/js/453.0498e25d.chunk.js.map"
+    "main.css": "./static/css/main.23880136.css",
+    "main.js": "./static/js/main.a711b282.js",
+    "static/js/453.0498e25d.chunk.js": "./static/js/453.0498e25d.chunk.js",
+    "index.html": "./index.html",
+    "main.23880136.css.map": "./static/css/main.23880136.css.map",
+    "main.a711b282.js.map": "./static/js/main.a711b282.js.map",
+    "453.0498e25d.chunk.js.map": "./static/js/453.0498e25d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.23880136.css",
-    "static/js/main.b187a372.js"
+    "static/js/main.a711b282.js"
   ]
 }
