@@ -1,5 +1,4 @@
 import React from 'react';
-import '../Components/AvisosYNoticias.css';
 import AvisosYNoticias from './AvisosYNoticias.js';
 
 function App() {
