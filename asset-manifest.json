@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/LefMono000/Actividad_integradora_sprint_el_corazon_de_scrum/static/css/main.23880136.css",
-    "main.js": "/LefMono000/Actividad_integradora_sprint_el_corazon_de_scrum/static/js/main.3f909987.js",
-    "static/js/453.0498e25d.chunk.js": "/LefMono000/Actividad_integradora_sprint_el_corazon_de_scrum/static/js/453.0498e25d.chunk.js",
-    "index.html": "/LefMono000/Actividad_integradora_sprint_el_corazon_de_scrum/index.html",
-    "main.23880136.css.map": "/LefMono000/Actividad_integradora_sprint_el_corazon_de_scrum/static/css/main.23880136.css.map",
-    "main.3f909987.js.map": "/LefMono000/Actividad_integradora_sprint_el_corazon_de_scrum/static/js/main.3f909987.js.map",
-    "453.0498e25d.chunk.js.map": "/LefMono000/Actividad_integradora_sprint_el_corazon_de_scrum/static/js/453.0498e25d.chunk.js.map"
+    "main.css": "/lefmono000/actividad_integradora_sprint_el_corazon_de_scrum/static/css/main.23880136.css",
+    "main.js": "/lefmono000/actividad_integradora_sprint_el_corazon_de_scrum/static/js/main.967e24ee.js",
+    "static/js/453.0498e25d.chunk.js": "/lefmono000/actividad_integradora_sprint_el_corazon_de_scrum/static/js/453.0498e25d.chunk.js",
+    "index.html": "/lefmono000/actividad_integradora_sprint_el_corazon_de_scrum/index.html",
+    "main.23880136.css.map": "/lefmono000/actividad_integradora_sprint_el_corazon_de_scrum/static/css/main.23880136.css.map",
+    "main.967e24ee.js.map": "/lefmono000/actividad_integradora_sprint_el_corazon_de_scrum/static/js/main.967e24ee.js.map",
+    "453.0498e25d.chunk.js.map": "/lefmono000/actividad_integradora_sprint_el_corazon_de_scrum/static/js/453.0498e25d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.23880136.css",
-    "static/js/main.3f909987.js"
+    "static/js/main.967e24ee.js"
   ]
 }
